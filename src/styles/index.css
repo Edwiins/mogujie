@@ -463,3 +463,173 @@ body {
   width: 30px;
   height: 30px;
 }
+#body_wrap {
+  width: 100%;
+  height: 500px;
+}
+#body_wrap .main_topnav_content {
+  font-size: 20px;
+  width: 1200px;
+  height: 40px;
+  margin: 0 auto;
+}
+#body_wrap .main_topnav_content .indexLeftLink {
+  float: left;
+  width: 257px;
+  height: 40px;
+  background: url(../images/ztsc.png);
+  position: relative;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+#body_wrap .main_topnav_content .indexLeftLink a {
+  position: absolute;
+  left: 50px;
+  top: 5px;
+}
+#body_wrap .main_topnav_content .indexRightLink {
+  float: left;
+  line-height: 40px;
+  margin-left: 40px;
+}
+#body_wrap .module_row {
+  height: 440px;
+  width: 100%;
+  background: #ffc5c3;
+  margin: 0 auto;
+}
+#body_wrap .module_row .pc_banner_wrapper {
+  margin: 0 auto;
+  height: 100%;
+  width: 1200px;
+  position: relative;
+}
+#body_wrap .module_row .pc_banner_wrapper .pc_indexPage_nav_menu {
+  width: 256px;
+  height: 100%;
+  float: left;
+  background-color: rgba(255, 255, 255, 0.8);
+}
+#body_wrap .module_row .pc_banner_wrapper .pc_indexPage_nav_menu .nav_list .nav_list_row {
+  height: 31px;
+  width: 100%;
+}
+#body_wrap .module_row .pc_banner_wrapper .pc_indexPage_nav_menu .nav_list .nav_list_row .nav_wrap {
+  line-height: 31px ;
+}
+#body_wrap .module_row .pc_banner_wrapper .pc_indexPage_nav_menu .nav_list .nav_list_row .nav_wrap .nav_list_title {
+  float: left;
+  font-weight: 900;
+  margin-left: 18px ;
+  margin-right: 10px;
+  font-size: 16px;
+}
+#body_wrap .module_row .pc_banner_wrapper .pc_indexPage_nav_menu .nav_list .nav_list_row .nav_wrap .nav_list_content {
+  float: left;
+}
+#body_wrap .module_row .pc_banner_wrapper .pc_indexPage_nav_menu .nav_list .nav_list_row .nav_wrap .nav_list_content a {
+  margin-right: 15px;
+}
+#body_wrap .module_row .pc_banner_wrapper .pc_indexPage_nav_menu .nav_list .nav_list_row:hover {
+  background-color: white;
+}
+#body_wrap .module_row .item_slider {
+  float: left;
+  width: 768px;
+  height: 100%;
+}
+#body_wrap .module_row .item_slider img {
+  width: 768px;
+  height: 440px;
+}
+#body_wrap .module_row .user_info {
+  float: left;
+  width: 166px ;
+  height: 420px;
+  margin-top: 10px;
+}
+#body_wrap .module_row .user_info .base_info {
+  width: 100%;
+  height: 205px;
+  background: #f2f0fd;
+  margin-bottom: 10px;
+  overflow: hidden;
+}
+#body_wrap .module_row .user_info .base_info .nofollow {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  background: pink;
+  margin: 0 auto;
+  margin-top: 25px;
+}
+#body_wrap .module_row .user_info .base_info .nofollow img {
+  margin-top: 3px;
+  margin-left: 10px;
+}
+#body_wrap .module_row .user_info .base_info .welcome span {
+  margin-top: 18px;
+  margin-left: 10px;
+}
+#body_wrap .module_row .user_info .base_info .welcome span:nth-of-type(2) {
+  font-weight: 700;
+}
+#body_wrap .module_row .user_info .base_info .privilid-text {
+  border: 1px solid red;
+  width: 60px;
+  margin-left: 50px ;
+  padding: 5px;
+  margin-top: 10px;
+  color: red;
+  background: pink;
+}
+#body_wrap .module_row .foot_wrapper {
+  padding-top: 25px;
+  width: 100%;
+  height: 205px;
+  background: #f2f0fd;
+  margin: 0 auto;
+}
+#body_wrap .module_row .foot_wrapper p {
+  font-size: 20px;
+  text-align: center;
+  margin-bottom: 8px;
+}
+#body_wrap .module_row .foot_wrapper .foot-hao {
+  width: 100px;
+  border: 1px solid black;
+  text-align: center;
+  margin-left: 30px;
+  background: pink;
+  margin-top: 25px;
+}
+#body_wrap .module_row_bq {
+  width: 1200px;
+  height: 454px;
+  background: cyan;
+  margin: 0 auto;
+}
+#body_wrap .module_row_bq .slider-wrap {
+  width: 100%;
+  height: 295px;
+  background: darkcyan;
+}
+#body_wrap .module_row_bq .bottom-sell {
+  margin-top: 10px;
+  height: 150px;
+}
+#body_wrap .module_row_bq .bottom-sell a img {
+  height: 150px;
+  width: 230px;
+  margin-right: 7px;
+}
+#body_wrap .module_row_bq .bottom-sell .bs-1 img {
+  width: 470px;
+}
+.hcolor {
+  color: red;
+}
+.hcolor img {
+  width: 12px;
+  height: 12px;
+}
